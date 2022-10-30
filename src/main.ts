@@ -25,3 +25,4 @@ setupCounter(document.querySelector<HTMLButtonElement>('#counter')!);
 export * from './functions';
 export * from './all-about-types';
 export * from './classes-interfaces';
+export * from './advanced-types';
